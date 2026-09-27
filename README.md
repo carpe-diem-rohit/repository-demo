@@ -1,3 +1,3 @@
 # repository-demo
-This is my first Git repository.
-Author: - Rohit Kumar Patel
+This is my 1st Git repository.
+Author: Rohit Kumar Patel
